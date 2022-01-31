@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["axios"],{"4af7":function(e,n,o){"use strict";o.r(n);var r=o("7a23");function t(e,n,o,t,c,a){var s=Object(r["resolveComponent"])("router-view");return Object(r["openBlock"])(),Object(r["createBlock"])(s)}var c={name:"CRUD"},a=o("6b0d"),s=o.n(a);const i=s()(c,[["render",t]]);n["default"]=i}}]);
+//# sourceMappingURL=axios.53dd6023.js.map

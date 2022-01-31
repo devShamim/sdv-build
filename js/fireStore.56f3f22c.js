@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["fireStore"],{"83a2":function(e,n,o){"use strict";o.r(n);var r=o("7a23");function t(e,n,o,t,c,a){var i=Object(r["resolveComponent"])("router-view");return Object(r["openBlock"])(),Object(r["createBlock"])(i)}var c={name:"CRUD"},a=o("6b0d"),i=o.n(a);const p=i()(c,[["render",t]]);n["default"]=p}}]);
+//# sourceMappingURL=fireStore.56f3f22c.js.map
